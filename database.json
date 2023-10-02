@@ -1,5 +1,16 @@
 {
   "workspace": {},
   "studio-open-web": {},
-  "studio-open-git": {}
+  "MenueSettings": {
+    "printCSG": true
+  },
+  "studio-open-git": {},
+  "BowlerStudioConfigs": {
+    "tutorialSource": "https://github.com/CommonWealthRobotics/CommonWealthRobotics.github.io.git",
+    "tutorialBranch": "deploy",
+    "tutorialBaseUrl": "/BowlerStudio/Welcome-To-BowlerStudio/",
+    "fontsize": 12,
+    "skinBranch": "2.9.3",
+    "skinRepo": "https://github.com/madhephaestus/BowlerStudioImageAssets.git"
+  }
 }
